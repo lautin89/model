@@ -1,6 +1,6 @@
 {
     "name": "lautin-model",
-    "version": "1.1.4",
+    "version": "1.1.5",
     "description": "a model for node of mysql ",
     "main": "index.js",
     "directories": {
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/lautin89/pagination.git"
+        "url": "https://github.com/lautin89/model.git"
     },
     "dependencies": {
         "blueimp-md5": "^2.10.0",
