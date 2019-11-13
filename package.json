@@ -1,0 +1,30 @@
+{
+    "name": "lautin-model",
+    "version": "1.2.0",
+    "description": "a model for node of mysql ",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lautin89/pagination.git"
+    },
+    "dependencies": {
+        "blueimp-md5": "^2.10.0",
+        "grunt-jsdoc": "^2.4.0",
+        "ink-docstrap": "^1.3.2",
+        "mysql": "^2.17.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "lautin",
+        "model",
+        "mysql"
+    ],
+    "author": "lautin",
+    "license": "ISC"
+}
